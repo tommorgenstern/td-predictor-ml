@@ -1,0 +1,8 @@
+#!/Users/tommorgenstern/Documents/Studium/Softwareentwicklung, B.Sc./Kurse/Bachelorarbeit/LaTeX/20250714_Morgenstern_Tom_IU14088740_Bachelorarbeit/Anhang/venv-td/bin/python
+# -*- coding: UTF-8 -*-
+from __future__ import print_function, division, absolute_import
+
+from numba.misc.numba_entry import main
+
+if __name__ == "__main__":
+    main()
